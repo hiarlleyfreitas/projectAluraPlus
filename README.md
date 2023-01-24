@@ -12,3 +12,4 @@ Here are the technologies used in this projetc:
 
 ## Links
 * Repository: https://github.com/hiarlleyfreitas/projectAluraPlus
+* Deploy on Vercel: https://project-alura-books.vercel.app/
